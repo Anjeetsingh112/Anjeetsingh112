@@ -1,12 +1,11 @@
 # 👋 Hello, I'm Anjeet Singh! 
 
-### 💻 Full-Stack Developer | AI Enthusiast | Open-Source Contributor  
+### 💻 Full-Stack Developer | AI Enthusiast | Open-Source Contributor |NIT Jamshedpur
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Passionate about building **scalable web apps** and **AI-powered solutions**.  
-- 🧠 Currently mastering **React, Redux Toolkit & Node.js optimizations**.  
+- 🔭 Passionate about building **web apps** and **AI-powered solutions**.  
 - 🏆 Solved **600+ DSA problems** – but debugging still feels like a puzzle!  
 - ✨ Fun fact: I believe **clean code > clever code**.  
 
